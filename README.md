@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amish Kakka</h1>
 
 <p align="center">
-Deep Learning Enthusiast | ML Developer | Passionate about pushing the boundaries of AI and building impactful solutions
+Deep Learning Enthusiast | ML Developer | Building applications and solutions to real-world problems
 </p>
 
 - ✨ I’m currently pursuing my interests in **Machine Learning / Data Science**
