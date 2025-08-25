@@ -4,7 +4,7 @@
 Deep Learning Enthusiast | ML Developer | Building applications and solutions to real-world problems
 </p>
 
-- ✨ I’m currently pursuing my interests in **Machine Learning / Data Science**
+- ✨ I’m currently pursuing **Software Engineering** with a focus in **Machine Learning / Data Science**.
 - 🚀 I’m learning **LLMs, scalable systems** and working on **advanced Retreival-Augmented-Generated (RAG) systems**.
 - 💬 Ask me about **Python, CNNs/DNNs, OpenCV, CUDA, and ML**
 - 📫 How to reach me: **amishkakka@gmail.com** 
