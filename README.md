@@ -1,61 +1,69 @@
-<h1 align="center">Hi 👋, I'm Amish Kakka</h1>
+<h1 align="center">Hi there, I'm Amish Kakka! 👋</h1>
 
 <p align="center">
-Deep Learning Enthusiast | ML Developer | Building applications and solutions to real-world problems
+  <b>Deep Learning Enthusiast | ML Developer | Software Engineer</b><br>
+  Building scalable LLM applications and RAG systems.
 </p>
 
-- ✨ I’m currently pursuing **Software Engineering** with a focus in **Machine Learning / Data Science**.
-- 🚀 I’m learning **LLMs, scalable systems** and working on **advanced Retreival-Augmented-Generated (RAG) systems**.
-- 💬 Ask me about **Python, CNNs/DNNs, OpenCV, CUDA, and ML**
-- 📫 How to reach me: **amishkakka@gmail.com** 
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/amish-kakka-a925011ba" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/amish-kakka-a925011ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@amishkakka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="medium" height="40" width="40" />
+  <a href="https://medium.com/@amishkakka" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:amishkakka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-### Languages:
-<p>
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
+<br>
 
-### Web Frameworks:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/gradio" alt="gradio" width="40" height="40"/>
-</p>
+### 👨‍💻 About Me
+- 🎓 I’m currently pursuing **Software Engineering** with a specialized focus on **Machine Learning & Data Science**.
+- 🧠 I’m deeply exploring **Large Language Models (LLMs)**, **Scalable Systems**, and **Retrieval-Augmented Generation (RAG)**.
+- 🔭 I’m currently working on building **inference engines for edge devices** using C++.
+- 💬 Ask me about **Python, CNNs/DNNs, OpenCV, CUDA, and PyTorch**.
 
-### ML Tools/Libraries:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
+---
 
-### Infrastructure: 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+### 🛠️ Tech Stack
 
-### Most Used Languages
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishKakka&layout=compact" alt="top-langs" />
-</p>
+<div align="center">
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**Machine Learning & Data Science**<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+**Cloud & Infrastructure**<br>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-FD6F00?style=flat-square&logo=gradio&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishKakka&layout=compact&theme=radical&include_all_commits=true&hide=jupyter%20notebook" alt="Top Langs" height="180"/>
+</div>
+
+<br>
