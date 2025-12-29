@@ -59,11 +59,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishKakka&layout=compact&theme=radical&include_all_commits=true&hide=jupyter%20notebook" alt="Top Langs" height="180"/>
-</div>
-
-<br>
