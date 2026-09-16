@@ -19,15 +19,14 @@
 
 <br>
 
-### 👨‍💻 About Me
+### About Me
 - 🎓 I’m currently pursuing **Software Engineering** with a specialized focus on **Machine Learning & Data Science**.
 - 🧠 I’m deeply exploring **Large Language Models (LLMs)**, **Scalable Systems**, and **Retrieval-Augmented Generation (RAG)**.
-- 🔭 I’m currently working on building **inference engines for edge devices** using C++.
-- 💬 Ask me about **Python, CNNs/DNNs, OpenCV, CUDA, and PyTorch**.
+- 💬 Ask me about **Python, Gorounties, CNNs/DNNs, OpenCV, CUDA, and PyTorch**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
