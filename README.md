@@ -21,9 +21,9 @@
 - 🎓 M.S. Software Engineering, Arizona State University (May 2026)
 - 🛠️ Backend + ML systems: APIs, real-time services, RAG, multi-agent orchestration
 - 🏭 Prior work: test automation & IoT telemetry (Statcon); AWS microservices (MindSpark)
-- 📍 Open to full-time SWE / AI engineering roles — ready to relocate
+- 📍 Open to full-time SWE / AI engineering roles — ready to relocate (on Earth)
 
-### Highlighted work
+
 | Project | Focus |
 |--------|--------|
 | **Multi-agent research system** | LangGraph orchestration, parallel agents, FastAPI, sub-5s reports |
